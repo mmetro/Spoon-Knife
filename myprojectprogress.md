@@ -1,0 +1,1 @@
+My project is a text editor that will have support for plugins in the future.  It will support basic text editing features, and will allow users to add any feature they want to it.  It will be licensed under the Gnu GPLv3 to ensure that derivatives are made public.
